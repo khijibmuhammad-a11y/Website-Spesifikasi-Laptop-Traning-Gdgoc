@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Spec & Compare",
+  "description": "Platform informasi spesifikasi, perbandingan, dan rekomendasi AI laptop terbaru tahun 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
